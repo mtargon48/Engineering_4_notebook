@@ -13,18 +13,29 @@ https://github.com/mtargon48/Engineering_4_notebook/blob/master/Python/quarditod
 ### Text Splitter
 This program allows you to put in a sentance and it
 w
+
 i
+
 l
+
 l
+
 
 s
+
 p
+
 l
+
 i
-t
 
 t
+
+
+t
+
 h
+
 e
 
 letters into their own lines... you didn't think that I was going to finish that did you?
