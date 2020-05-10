@@ -12,6 +12,7 @@ I think the quintessential engineering skill is to take hours to automate someth
 https://github.com/mtargon48/Engineering_4_notebook/blob/master/Python/quarditodiscrim.py
 ### Text Splitter
 This program allows you to put in a sentance and it
+
 w
 
 i
